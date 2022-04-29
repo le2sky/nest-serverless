@@ -1,4 +1,8 @@
-<img src="./serverless.png"/>
+# nestjs serverless demo
+
+<p align="center">
+  <img src="./serverless.png"/>
+</p>
 
 ## aws credential setting
 
@@ -31,6 +35,10 @@ npm install --save-dev serverless-offline plugin
 
 ```
 sls offline start
+```
+
+```
+curl http://localhost:3000/dev
 ```
 
 ## deploy
