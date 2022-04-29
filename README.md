@@ -52,3 +52,7 @@ sls deploy -v
 ```
 serverless remove
 ```
+
+Refer to the site below
+<br>
+https://blog.theodo.com/2019/06/deploy-a-nestjs-app-in-5-minutes-with-serverless-framework/
